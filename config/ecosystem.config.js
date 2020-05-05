@@ -1,8 +1,8 @@
 module.exports = {
   apps: [
     {
-      name: 'my-app',
-      script: './src/server.js'
+      name: 'jr-eb-deploy',
+      script: './src/index.js'
     }
   ]
 };
